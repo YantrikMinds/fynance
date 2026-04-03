@@ -3,7 +3,7 @@
 A clean, feature-rich finance dashboard built with vanilla HTML, CSS, and JavaScript.
 No build tools, no frameworks, no dependencies to install — just open and run.
 
-![Fynance Dashboard Preview](https://via.placeholder.com/900x500?text=Fynance+Finance+Dashboard)
+![Fynance Dashboard Preview]https://fynannce.netlify.app/
 
 ---
 
@@ -11,7 +11,7 @@ No build tools, no frameworks, no dependencies to install — just open and run.
 
 ```bash
 # Clone or download the project
-git clone https://github.com/yourusername/fynance-dashboard
+git clone https://github.com/YantrikMinds/fynance
 
 # Open directly in browser — no server needed
 open index.html
@@ -118,24 +118,6 @@ Data transforms (filtering, summarising, category grouping) are pure functions i
 
 ---
 
-## Deployment
-
-### Netlify (recommended)
-1. Push to GitHub
-2. Connect repo to [netlify.com](https://netlify.com)
-3. Deploy settings: Build command = *(empty)*, Publish directory = `.`
-
-### GitHub Pages
-1. Push to GitHub
-2. Go to Settings → Pages → Deploy from branch → main
-
-### Vercel
-```bash
-npx vercel --prod
-```
-
----
-
 ## Tech Stack
 
 | Tool       | Purpose                          |
@@ -156,5 +138,5 @@ Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
 ---
 
 ## Author
-
-Built as a frontend assignment submission — demonstrating UI/UX design thinking, component architecture, state management, and responsive development with clean vanilla code.
+Nishant Pathak
+pathak.nishant2517@gmail.com
